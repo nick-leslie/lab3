@@ -294,4 +294,3 @@ void user_input_task() {
      Semaphore_post(display);
  }
 }
-
